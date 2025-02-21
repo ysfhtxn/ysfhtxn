@@ -6,7 +6,7 @@ ysfhtxn/ysfhtxn is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 
 --->
-<div align="center">
+<div align="left">
   <a href="https://github.com/sparkcyf">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ysfhtxn&show_icons=true&include_all_commits=true&theme=dracula" />
   </a>
