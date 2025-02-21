@@ -13,18 +13,18 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 
-<table width="100%" >
+<table width="50%" >
 
 
 ## 📄📜 Stats
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yshftxn&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yshftxn"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshftxn&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
@@ -32,252 +32,11 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 
-<!--
-#### Cloud Infrastructures
-
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
-
-
-#### Environments
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
-![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)&nbsp;
-![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
--->
-
-
-<!--
-
-<br />
-
-<details>
-
-  <summary><h2> 📌🏴  Coding Profiles </h2></summary>
-
-</br>
-</br>
-
-<a href="#" ><img style="height:25px; margin:10%; position: absolute;float: left;" src = "https://img.shields.io/static/v1?message=Code%20Chef&logo=CodeChef&labelColor=brown&color=brown&logoColor=white&label=%20&style=plastic"/></a> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Leet%20Code&logo=LeetCode&labelColor=05122A&color=05122A&logoColor=FFA116&label=%20&style=plastic"/>&nbsp;&nbsp;&nbsp;  &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&labelColor=black&color=black&logoColor=00EA64&label=%20&style=flat"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:26px" src = "https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&labelColor=red&color=red&logoColor=yellow&label=%20&style=plastic"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
-<a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-</details>
-
--->
-
-</br>
-
-<!--
-
-<details>
-
-  <summary> <h3> Post Links </h3> </summary>
-
-  </br>
-
-  <a href = "#" > <img src = "https://img.shields.io/static/v1?message=QnA&logo=StackOverflow&labelColor=F58025&color=white&logoColor=white&label=Stack%20Overflow&style=plastic"/></a>
- 
-  
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Communinty&logo=dev.to&labelColor=0A0A0A&color=white&logoColor=white&label=dev.to&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Blog%20Post&logo=GeeksforGeeks&labelColor=2F8D46&color=white&logoColor=white&label=gfg&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-  
-</details>
-
--->
-
-
-
-<!-- 
-# Featured Repositories 🚀
-
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
-
-<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=vue"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=apprentice"/>
- -->
-
-<!--
-
-## Banner
-
-## Update About
-
-## Metrics
-
-## Code Snippet Gif/ Anime
-
-## Resize
-
-## Pinned Repositories
-
-## Open Source Programs
-
-## Achievements Section
-
--->
-
-<!-- 
-Navigation Options  -->
-
-<!-- 
-Featured Repositories.
- -->
-
-
- 
-<!-- 
-
-<details> 
- <summary> <h2> Here are some highlights of my open source journey </h2> </summary>
- 
- 
- 
-<details>
-
-  <summary> <h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>  </a> 
- 
-   👆 Click To Expand!! </h2> </summary>
-  
-  <table>
-   <h2> Section Link </h3> 
- <tr>
- <td> <img src="git-metrics/r1l.svg"/> </td>
- <td> <img src="git-metrics/r1r.svg"/> </td>
- </tr>
- </table>
-  
-</details>
-
- <details>
-
-  <summary> Open Source Work </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r2.svg"/> </td>
-   <td><img src="git-metrics/r3.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
- 
- <details>
-
-  <summary> Useful Repos and Important Code </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r4l.svg"/> </td>
-   <td><img src="git-metrics/r4r.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
-  <details>
-
-  <summary> Others's collaboration my repos </summary>
-  
-   <table>
-     
-  <tr>   
-     <img src="git-metrics/r5.svg"/> 
-    </tr>   
- 
- </table>
-  
-</details>
-
-</details>
- -->
- 
- 
-
-  
-<!-- ## Here are some highlights of my open source journey 
-
- ### - Activity Smmary and Overview
-
-## Here are some of my works
- -->
-
-</br>
-</br>
-
-## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img width="80%" align="center" src ="profile-3d-contrib/profile-customize.svg"/>
-
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
-
-
-</br>
-
-  <table  >
- <tr>
-  
-
-
-  <td width="75%" align = "left">
-
-   <h3>  &nbsp; &nbsp; 📙📘 &nbsp;Recent Articles and Blog Posts  </h3>
-
-   
-<!-- BLOG-POST-LIST:START -->
-- [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
-<!-- BLOG-POST-LIST:END -->
-
-  </td>
-  
-  <td width="600px">
-   
-  </td>
-  
- </tr>
- </table>
- 
- 
- </br>
- 
-## &nbsp; &nbsp; &nbsp;🔥 My Motto
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
-
-
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yshftxn}/count.svg" /></p> 
 <br>
 </div>
  
