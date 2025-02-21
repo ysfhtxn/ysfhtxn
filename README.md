@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yshftxn&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ysfhtxn&show_icons=true&include_all_commits=true" />
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yshftxn"/>
  </br>
